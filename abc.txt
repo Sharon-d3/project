@@ -1,1 +1,3 @@
 welcome to git workshop
+git blash is used for to run git commands
+
